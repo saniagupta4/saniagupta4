@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saniagupta4
-- 👀 I know the launageges like c,java,python
-- 🌱 I’m focusing on building my programming skills
-- 💞️ I’m looking for internship
+   Hi, I’m @saniagupta4
+   I know the launageges like c,java,python
+   I’m focusing on building my programming skills
+   I’m looking for internship
 
 
 <!---
